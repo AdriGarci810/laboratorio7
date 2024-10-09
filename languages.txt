@@ -4,3 +4,8 @@ c++
 python
 java
 prueba para hacer git push
+foreign languages:
+georgiano
+campurriano
+aleman
+frances

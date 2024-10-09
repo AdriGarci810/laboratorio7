@@ -1,6 +1,6 @@
 pitbull es el mejor
 
-c++
-python
-java
+c++: avanzado
+python: basico
+java: nada
 prueba para hacer git push
